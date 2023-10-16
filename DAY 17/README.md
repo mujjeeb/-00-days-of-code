@@ -1,8 +1,8 @@
-# Quiz Application
+# Trivia
 
 ## Project Overview
 
-The "Quiz Application" is a Python-based project designed to present the user with a series of questions and evaluate their answers. The project is divided into four Python files: `main.py`, `data.py`, `question_model.py`, and `quiz_brain.py`. When the `main.py` script is run, it interacts with the other files to present questions to the user, keep track of the user's score, and provide a final score at the end of the quiz.
+The "Trivia" is a Python-based project designed to present the user with a series of questions and evaluate their answers. The project is divided into four Python files: `main.py`, `data.py`, `question_model.py`, and `quiz_brain.py`. When the `main.py` script is run, it interacts with the other files to present questions to the user, keep track of the user's score, and provide a final score at the end of the quiz.
 
 ## Project Files
 
@@ -15,7 +15,7 @@ The project consists of the following files:
 
 ## Prerequisites
 
-To run the "Quiz Application," you need to have Python installed on your system.
+To run the "Trivia," you need to have Python installed on your system.
 
 ## Project Structure
 
@@ -33,18 +33,18 @@ Quiz_Application/
 
 ## Getting Started
 
-To start using the "Quiz Application":
+To start using the "Trivia":
 
 1. Clone this project repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Quiz_Application.git
+   git clone https://github.com/yourusername/Trivia.git
    ```
 
 2. Change your working directory to the project folder:
 
    ```bash
-   cd Quiz_Application
+   cd Trivia
    ```
 
 3. Run the `main.py` script to start the quiz:
