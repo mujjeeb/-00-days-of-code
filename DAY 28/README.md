@@ -8,7 +8,7 @@ The "Pomodoro Timer" is a Python project that provides a user-friendly graphical
 
 The project is organized as follows:
 
-- **100-days-of-code/DAY 27 Folder**: This folder contains the project files and resources.
+- **100-days-of-code/DAY 28 Folder**: This folder contains the project files and resources.
   - `main.py`: The main Python script that runs the Pomodoro Timer.
   - `tomato.png`: An image file used in the GUI interface.
   - `README.md`: The project README file.
@@ -45,10 +45,10 @@ To start using the "Pomodoro Timer":
    git clone https://github.com/yourusername/100-days-of-code.git
    ```
 
-2. Change your working directory to the `DAY 27` folder:
+2. Change your working directory to the `DAY 28` folder:
 
    ```bash
-   cd 100-days-of-code/DAY\ 27
+   cd 100-days-of-code/DAY\ 28
    ```
 
 3. Run the Python script, `main.py`, to start the Pomodoro Timer:
