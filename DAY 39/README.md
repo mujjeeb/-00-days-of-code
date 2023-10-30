@@ -1,6 +1,6 @@
 # Day 39 of 100 Days of Code
 
-## Flight Deal Project
+## Flight Deal Finder Project
 
 Welcome to Day 39 of the 100 Days of Code challenge! Today's project is the "Flight Deal" application, which uses the [Tequila API by Kiwi.com](https://tequila-api.kiwi.com) and the [Sheety API](https://sheety.co/) to find and alert you about the cheapest flight deals. Let's get started.
 
