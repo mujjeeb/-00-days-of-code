@@ -3,10 +3,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 import time
+import os
 
 
-INSTAGRAM_USERNAME = "thee.mjk"
-INSTAGRAM_PASSWORD = "Trippin21$"
+INSTAGRAM_USERNAME = os.environ.get("INSTAGRAM_USERNAME")
+INSTAGRAM_PASSWORD = os.environ.get("INSTAGRAM_PASSWORD")
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
