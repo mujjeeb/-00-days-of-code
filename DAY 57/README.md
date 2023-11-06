@@ -2,7 +2,7 @@
 
 ## Simple Blog Site
 
-![Simple Blog Site](https://example.com/simple_blog_site.jpg)
+
 
 Welcome to Day 57 of the 100 Days of Code challenge! In today's project, the "Simple Blog Site," we will create a basic blog website that displays blog posts retrieved from a JSON endpoint. This project showcases web development with Python using Flask and HTML templates.
 
