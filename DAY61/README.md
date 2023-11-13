@@ -1,5 +1,3 @@
-Certainly! Below is a README for the "Secrets" project that explores Flask, WTForms, and form validation.
-
 # Day 61 - Secrets
 
 Welcome to "Secrets," a project that delves into Flask, WTForms, and WTForms validators to create a simple yet engaging secret-sharing system.
