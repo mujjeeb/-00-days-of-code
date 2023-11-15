@@ -12,7 +12,7 @@ The project structure remains similar to the previous blog project:
 
 ```
 restful_blog/
-    app.py              # Main Flask application
+    main.py              # Main Flask application
     templates/          # HTML templates
         index.html       # Home page displaying blog posts
         post.html        # Individual blog post page
